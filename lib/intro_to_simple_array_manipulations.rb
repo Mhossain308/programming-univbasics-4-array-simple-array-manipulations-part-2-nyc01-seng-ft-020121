@@ -3,7 +3,9 @@ def using_concat(x, y)
 end
 
 def using_insert(x, y)
-  a.insert(4, y)
+  array = [1,2,3,4,5]
+  new_array = "y"
+  x.insert("y")
 end
 
 def using_uniq(array)
